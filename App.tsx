@@ -317,7 +317,7 @@ const App: React.FC = () => {
   const skills: Skill[] = [
     {
       category: 'Técnicas / Software',
-      items: ['Adobe Photoshop', 'Adobe Illustrator', 'Adobe Premiere']
+      items: ['Adobe Photoshop', 'Adobe Illustrator', 'Adobe Premiere', 'Flujos Generativos']
     },
     {
       category: 'Criterio / Soft Skills',
