@@ -279,7 +279,7 @@ const App: React.FC = () => {
       id: 'youtube-ctr',
       category: 'Miniaturas de YouTube',
       title: 'Thumbnail: Arquitectura del Click',
-      concept: 'La creación de thumbnails para temas de economía requiere un equilibrio entre rigor y curiosidad. El objetivo de este proyecto fue diseñar una narrativa visual que logre que datos históricos y financieros complejos resulten atractivos y clickeables en un mercado digital saturado',
+      concept: 'El objetivo de este proyecto fue diseñar una narrativa visual que logre que datos históricos y financieros complejos resulten atractivos en el mercado digital. Me basé en un diseño estratégico orientado a la optimización de CTR (Click-Through Rate) que mejoró las visualizaciones de un canal de youtube.',
       image: 'https://drive.google.com/file/d/1LxsZ4plI3ti-YRHc4101aGKn3ZMx7Kgv/view?usp=sharing',
       gallery: [
         'https://drive.google.com/file/d/1LxsZ4plI3ti-YRHc4101aGKn3ZMx7Kgv/view?usp=sharing',
